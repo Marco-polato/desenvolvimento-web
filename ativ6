@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Ativ6</title>
+</head>
+<body>
+  <header>
+    <h1> Bandeirar de 3 paises legais</h1>
+    <h2>Bandeira do Brasil</h2>
+  </header>
+
+  <section>
+    <h3>📸 Imagem da Bandeira</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="600">
+    <p>Brasil: https://pt.wikipedia.org/wiki/Hist%C3%B3ria_cultural_do_Brasil</p>
+  </section>
+</body>
+</html>
+<hr>
+<h2>Bandeira do Russia</h2>
+  </header>
+
+  <section>
+    <h3>📸 Imagem da Bandeira</h3>
+    <img src="https://mf.b37mrtl.ru/rbthmedia/images/2021.06/original/60c3628d85600a7e254f9021.jpg" alt="Bandeira da Russia" width="600">
+    <p>Brasil: https://pt.wikipedia.org/wiki/Cultura_da_R%C3%BAssia</p>
+  </section>
+<hr>
+  <h2>Bandeira do Japao</h2>
+  </header>
+
+  <section>
+    <h3>📸 Imagem da Bandeira</h3>
+    <img src="https://static.significados.com.br/foto/bandeira-do-japao-fb.jpg" alt="Bandeira da Japao" width="600">
+    <p>Brasil: https://pt.wikipedia.org/wiki/Bandeira_do_Jap%C3%A3o</p>
+  </section>
